@@ -22,6 +22,10 @@ This is a simple yet functional Weather App built using Kotlin and the MVVM arch
 ![image alt](https://github.com/sachin-maury/Weather-App/blob/24777fdd455c3c46bf1d41b38399ae4c98846b44/ScreenShort%20Image.jpg)
 
 ---
+## Demo Video
+![demo app](https://github.com/sachin-maury/Weather-App/blob/50335d7ddca7328cd702e6c8588d158b536f124f/Video.gif)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -32,8 +36,3 @@ This is a simple yet functional Weather App built using Kotlin and the MVVM arch
 - **Location Services:** FusedLocationProviderClient
 - **Permissions:** Runtime permission handling for location
 - **Data Binding:** ViewModel LiveData updates UI reactively
-
----
-
-
-

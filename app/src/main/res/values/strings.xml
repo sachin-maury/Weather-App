@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Apps</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="default_web_client_id">38348005236-v8oa6jj44j0ao6a7pef98ghefj3jbvpk.apps.googleusercontent.com</string>
+    <string name="sign_in">Sign In</string>
+    <string name="google">Google</string>
+    <string name="enter_your_passwords">Enter your password</string>
+    <string name="enter_city_name">Enter City Name</string>
+</resources>

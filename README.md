@@ -19,7 +19,7 @@ This is a simple yet functional Weather App built using Kotlin and the MVVM arch
 
 ## 📸 Screenshots
 
-![image alt](https://github.com/sachin-maury/Weather-App/blob/7ea38c4025ce457fa13aa2046b99e2381099a99e/Weather%20APP.jpg)
+![image alt](https://github.com/sachin-maury/Weather-App/blob/24777fdd455c3c46bf1d41b38399ae4c98846b44/ScreenShort%20Image.jpg)
 
 ---
 

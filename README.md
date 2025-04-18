@@ -11,10 +11,17 @@ This is a simple yet functional Weather App built using Kotlin and the MVVM arch
 - 🌡️ Temperature display in Celsius
 - 🌬️ Wind speed, 💧 humidity, and ☔ precipitation data
 - 📶 Real-time data from a weather API
-- 🧠 Clean architecture using MVVM
-- 💙 Modern and responsive UI with ConstraintLayout
+- Clean architecture using MVVM
+- Modern and responsive UI with ConstraintLayout
 - 📦 Room for future expansion (e.g., forecast, favorites, themes)
 
+---
+
+## 🔐 Firebase Authentication
+
+- 👤 **Secure user login** with **Google** or **Email/Password**
+- 🔄 Automatically **redirects unauthenticated users** to the Sign-In screen
+- ☁️ Uses **Firebase Authentication** for identity and session management
 ---
 
 ## 📸 Screenshots
